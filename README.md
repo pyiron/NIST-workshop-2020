@@ -1,4 +1,4 @@
-# NIST workshop pyiron demonstration 
+# NIST workshop - pyiron demonstration 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyiron/NIST-workshop-2020/HEAD?filepath=demonstration.ipynb)
 
 Video Tutorial: 
